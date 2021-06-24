@@ -10,7 +10,14 @@
         <module name="dream-react-eureka" />
         <module name="bbs" />
         <module name="dream-react-zuul" />
+        <module name="teacherlist" />
       </profile>
     </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="bbs" options="-parameters" />
+      <module name="teacherlist" options="-parameters" />
+    </option>
   </component>
 </project>
