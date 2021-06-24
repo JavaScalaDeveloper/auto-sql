@@ -1,0 +1,7 @@
+
+l
+java:S1192!"JDefine a constant instead of duplicating this literal "errorCode" 3 times.(ÚÁúÀùÿÿÿÿ8âÏ¦è£/
+a
+java:S1854"?Remove this useless assignment to local variable "validateMap".( òÌøıÿÿÿÿ8‘Ğ¦è£/
+a
+java:S18542"?Remove this useless assignment to local variable "validateMap".( òÌøıÿÿÿÿ8Ğ¦è£/
